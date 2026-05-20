@@ -30,6 +30,8 @@ source .venv/bin/activate
 
 # 安装依赖
 pip install -r requirements.txt
+# 或
+pip3 install -r requirements.txt
 ```
 
 ## 启动
